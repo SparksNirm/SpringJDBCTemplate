@@ -4,4 +4,5 @@ public interface CustomerDAO {
 	
 	public void insertData(String Name,String employeeNo, String mobilNo );
 
+	
 }
